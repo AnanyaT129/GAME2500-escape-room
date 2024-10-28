@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GAME2500-escape-room/static/css/main.f855e6bc.css",
+    "main.js": "/GAME2500-escape-room/static/js/main.22d5db9a.js",
+    "static/js/453.0187c4d0.chunk.js": "/GAME2500-escape-room/static/js/453.0187c4d0.chunk.js",
+    "static/media/carphone.gif": "/GAME2500-escape-room/static/media/carphone.e7a13cd1d349cfc8d50d.gif",
+    "static/media/mapBackground.gif": "/GAME2500-escape-room/static/media/mapBackground.2d1e3dff7c835dda28f2.gif",
+    "static/media/police.jpg": "/GAME2500-escape-room/static/media/police.d1416d22d467a707b5b3.jpg",
+    "index.html": "/GAME2500-escape-room/index.html",
+    "main.f855e6bc.css.map": "/GAME2500-escape-room/static/css/main.f855e6bc.css.map",
+    "main.22d5db9a.js.map": "/GAME2500-escape-room/static/js/main.22d5db9a.js.map",
+    "453.0187c4d0.chunk.js.map": "/GAME2500-escape-room/static/js/453.0187c4d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.22d5db9a.js"
+  ]
+}
